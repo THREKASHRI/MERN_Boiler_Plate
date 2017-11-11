@@ -1,4 +1,4 @@
-**MERN Boilerplate** is just a minimal boilerplate for a MERN based webapp.
+**MERN Boilerplate** is just a minimal boilerplate for a MERN based webapp with passport local strategy implementation.
 
 ---
 **Useful Commands**
